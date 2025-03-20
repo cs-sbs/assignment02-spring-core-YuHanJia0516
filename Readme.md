@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Hb7-LAVz)
 ### **Web应用开发作业02：Spring IoC和AOP实践**
 **目标**：Spring 框架是 Java 开发中的核心技术，其中 IoC（控制反转）和 AOP（面向切面编程）是其重要机制。
 本次作业旨在帮助学生掌握 Spring IoC 容器的 Bean 装配方式及 Spring AOP 的实现方式，并能够在实际应用场景中进行选择和使用。
